@@ -1,7 +1,6 @@
 #include "bmp.h"
 #include "pfc-mini.hpp"
 
-global int test(0);
 
 void graphics::clear(graphics::bitmap_type& bmp) {
 
